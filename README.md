@@ -1,5 +1,4 @@
-# Capstone-2
-#**Latar Belakang**
+# Latar Belakang
 Transjakarta adalah sistem Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan yang beroperasi sejak 2004 di Jakarta, Indonesia. Transjakarta dirancang sebagai transportasi massal untuk mendukung aktivitas ibukota yang padat. Dengan jalur terpanjang di dunia (251,2 km) dan 260 halte di 13 koridor, Transjakarta yang awalnya beroperasi dari pukul 05.00 - 22.00 WIB, kini beroperasi 24 jam. Dengan rute yang semakin luas dan kemudahan penggunaan, Transjakarta menjadi transportasi favorit warga Jakarta. Namun, ada beberapa masalah yang harus ditangani, seperti kekerasan seksual terhadap perempuan, penumpukan penumpang di halte, kepadatan penumpang di dalam bus, dan pencopetan.
 # **Pernyataan Masalah**
 Transjakarta ingin mengevaluasi transaksi selama satu bulan pada April 2023 untuk meningkatkan layanan kepada penumpang.
